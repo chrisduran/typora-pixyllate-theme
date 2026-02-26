@@ -1,15 +1,54 @@
-# typora-pixyllate-theme
-A dark mode fork of the Typora Pixyll theme, based on the colorway of the Typora Github Night theme
+# Pixyllate
 
-Style and colorway from the following projects:
+A dark mode variant of the [Pixyll](https://github.com/johno/pixyll/) theme for [Typora](https://typora.io/), inspired by the color palette of the GitHub Night theme.
 
-* https://github.com/johno/pixyll/
-* https://theme.typora.io/theme/Github-Night/
+![Pixyllate Preview](pixyllate_sample.png)
 
-## Theme samples
+## Features
 
-### The original light mode theme, Pixyll:
-![Pixyll - light mode](pixyll_sample.png)
+- Clean, minimal design based on the Pixyll theme
+- Dark mode optimized for reduced eye strain
+- GitHub Night-inspired color scheme
+- Serif typography for elegant document reading
+- Optimized for Markdown writing and reading
 
-### The new dark mode theme, Pixyllate:
-![Pixyllate - dark mode](pixyllate_sample.png)
+## Installation
+
+### Manual Installation
+
+1. Download the latest release or clone this repository
+2. Copy `pixyllate.css` and the `pixyllate` folder to your Typora theme folder:
+   - **Windows**: `%APPDATA%\Typora\themes\`
+   - **macOS**: `~/Library/Application Support/abnerworks.Typora/themes/`
+   - **Linux**: `~/.config/Typora/themes/`
+3. Restart Typora
+4. Select `Pixyllate` from `Themes` in the menu bar
+
+### Finding Your Theme Folder
+
+In Typora, go to `Preferences` → `Appearance` → `Open Theme Folder` to quickly access your themes directory.
+
+## Screenshots
+
+### Pixyllate (Dark Mode)
+![Pixyllate Dark Mode](pixyllate_sample.png)
+
+### Original Pixyll (Light Mode)
+For comparison, here's the original light mode theme:
+
+![Pixyll Light Mode](pixyll_sample.png)
+
+## Credits
+
+This theme builds upon the excellent work of:
+
+- [Pixyll](https://github.com/johno/pixyll/) - Original theme by John Otander
+- [GitHub Night Theme](https://theme.typora.io/theme/Github-Night/) - Color palette inspiration
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Issues and pull requests are welcome! Feel free to suggest improvements or report bugs.
